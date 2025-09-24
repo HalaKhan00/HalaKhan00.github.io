@@ -16,8 +16,8 @@ keywords: biomedical ai, virtual staining, generative models, microscopy, pathol
 lang: en
 icon: "🧬"
 
-url: https://HalaKhan00.github.io   # ✅ your user site
-baseurl: ""                          # ✅ empty for user sites
+url: https://HalaKhan00.github.io
+baseurl: ""
 last_updated: false
 back_to_top: true
 
