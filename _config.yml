@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-title: Hala Ali Kha n
+title: Hala Ali Khan
 first_name: Hala
 middle_name:
 last_name: Ali Khan
@@ -60,6 +60,17 @@ navbar:
       url: /cv/
     - title: GitHub
       url: https://github.com/HalaKhan00
+
+
+third_party_libraries:
+  download: false        # don't try to download files during build
+  jquery:
+    integrity:
+      js: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+    url:
+      js: "https://cdn.jsdelivr.net/npm/jquery@{{version}}/dist/jquery.min.js"
+    version: "3.6.0"
+
 
 # -----------------------------------------------------------------------------
 # Blog
